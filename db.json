@@ -13,5 +13,280 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "cities": [
+    {
+        "city": "Sofia", 
+        "admin": "Sofia-Grad", 
+        "country": "Bulgaria", 
+        "capital": "primary", 
+        "population": "1185000"
+    }, 
+    {
+        "city": "Plovdiv", 
+        "admin": "Plovdiv", 
+        "country": "Bulgaria", 
+        "capital": "admin", 
+        "population": "340494"
+    }, 
+    {
+        "city": "Varna", 
+        "admin": "Varna", 
+        "country": "Bulgaria", 
+        "capital": "admin", 
+        "population": "312770"
+    }, 
+    {
+        "city": "Burgas", 
+        "admin": "Burgas", 
+        "country": "Bulgaria", 
+        "capital": "admin", 
+        "population": "195966"
+    }, 
+    {
+        "city": "Ruse", 
+        "admin": "Ruse", 
+        "country": "Bulgaria", 
+        "capital": "admin", 
+        "population": "184270"
+    }, 
+    {
+        "city": "Stara Zagora", 
+        "admin": "Stara Zagora", 
+        "country": "Bulgaria", 
+        "capital": "admin", 
+        "population": "143431"
+    }, 
+    {
+        "city": "Pleven", 
+        "admin": "Pleven", 
+        "country": "Bulgaria", 
+        "capital": "admin", 
+        "population": "118675"
+    }, 
+    {
+        "city": "Sliven", 
+        "admin": "Sliven", 
+        "country": "Bulgaria", 
+        "capital": "admin", 
+        "population": "96368"
+    }, 
+    {
+        "city": "Dobrich", 
+        "admin": "Dobrich", 
+        "country": "Bulgaria", 
+        "capital": "admin", 
+        "population": "94831"
+    }, 
+    {
+        "city": "Shumen", 
+        "admin": "Shumen", 
+        "country": "Bulgaria", 
+        "capital": "admin", 
+        "population": "87283"
+    }, 
+    {
+        "city": "Pernik", 
+        "admin": "Pernik", 
+        "country": "Bulgaria", 
+        "capital": "admin", 
+        "population": "82467"
+    }, 
+    {
+        "city": "Haskovo", 
+        "admin": "Haskovo", 
+        "country": "Bulgaria", 
+        "capital": "admin", 
+        "population": "79699"
+    }, 
+    {
+        "city": "Vratsa", 
+        "admin": "Vratsa", 
+        "country": "Bulgaria", 
+        "capital": "admin", 
+        "population": "71633"
+    }, 
+    {
+        "city": "Kyustendil", 
+        "admin": "Kyustendil", 
+        "country": "Bulgaria", 
+        "capital": "admin", 
+        "population": "51067"
+    }, 
+    {
+        "city": "Montana", 
+        "admin": "Montana", 
+        "country": "Bulgaria", 
+        "capital": "admin", 
+        "population": "47445"
+    }, 
+    {
+        "city": "Lovech", 
+        "admin": "Lovech", 
+        "country": "Bulgaria", 
+        "capital": "admin", 
+        "population": "42211"
+    }, 
+    {
+        "city": "Razgrad", 
+        "admin": "Razgrad", 
+        "country": "Bulgaria", 
+        "capital": "admin", 
+        "population": "38285"
+    }, 
+    {
+        "city": "Borino", 
+        "admin": "Smolyan", 
+        "country": "Bulgaria", 
+        "capital": "minor", 
+        "population": ""
+    }, 
+    {
+        "city": "Madan", 
+        "admin": "Smolyan", 
+        "country": "Bulgaria", 
+        "capital": "minor", 
+        "population": ""
+    }, 
+    {
+        "city": "Zlatograd", 
+        "admin": "Smolyan", 
+        "country": "Bulgaria", 
+        "capital": "minor", 
+        "population": ""
+    }, 
+    {
+        "city": "Pazardzhik", 
+        "admin": "Pazardzhik", 
+        "country": "Bulgaria", 
+        "capital": "admin", 
+        "population": ""
+    }, 
+    {
+        "city": "Smolyan", 
+        "admin": "Smolyan", 
+        "country": "Bulgaria", 
+        "capital": "admin", 
+        "population": ""
+    }, 
+    {
+        "city": "Blagoevgrad", 
+        "admin": "Blagoevgrad", 
+        "country": "Bulgaria", 
+        "capital": "admin", 
+        "population": ""
+    }, 
+    {
+        "city": "Nedelino", 
+        "admin": "Smolyan", 
+        "country": "Bulgaria", 
+        "capital": "minor", 
+        "population": ""
+    }, 
+    {
+        "city": "Rudozem", 
+        "admin": "Smolyan", 
+        "country": "Bulgaria", 
+        "capital": "minor", 
+        "population": ""
+    }, 
+    {
+        "city": "Devin", 
+        "admin": "Smolyan", 
+        "country": "Bulgaria", 
+        "capital": "minor", 
+        "population": ""
+    }, 
+    {
+        "city": "Veliko Tarnovo", 
+        "admin": "Veliko Tarnovo", 
+        "country": "Bulgaria", 
+        "capital": "admin", 
+        "population": ""
+    }, 
+    {
+        "city": "Vidin", 
+        "admin": "Vidin", 
+        "country": "Bulgaria", 
+        "capital": "admin", 
+        "population": ""
+    }, 
+    {
+        "city": "Kirkovo", 
+        "admin": "Kardzhali", 
+        "country": "Bulgaria", 
+        "capital": "minor", 
+        "population": ""
+    }, 
+    {
+        "city": "Krumovgrad", 
+        "admin": "Kardzhali", 
+        "country": "Bulgaria", 
+        "capital": "minor", 
+        "population": ""
+    }, 
+    {
+        "city": "Dzhebel", 
+        "admin": "Kardzhali", 
+        "country": "Bulgaria", 
+        "capital": "minor", 
+        "population": ""
+    }, 
+    {
+        "city": "Silistra", 
+        "admin": "Silistra", 
+        "country": "Bulgaria", 
+        "capital": "admin", 
+        "population": ""
+    }, 
+    {
+        "city": "Sarnitsa", 
+        "admin": "Pazardzhik", 
+        "country": "Bulgaria", 
+        "capital": "minor", 
+        "population": ""
+    }, 
+    {
+        "city": "Shiroka Laka", 
+        "admin": "Smolyan", 
+        "country": "Bulgaria", 
+        "capital": "minor", 
+        "population": ""
+    }, 
+    {
+        "city": "Yambol", 
+        "admin": "Yambol", 
+        "country": "Bulgaria", 
+        "capital": "admin", 
+        "population": ""
+    }, 
+    {
+        "city": "Dospat", 
+        "admin": "Smolyan", 
+        "country": "Bulgaria", 
+        "capital": "minor", 
+        "population": ""
+    }, 
+    {
+        "city": "Kardzhali", 
+        "admin": "Kardzhali", 
+        "country": "Bulgaria", 
+        "capital": "admin", 
+        "population": ""
+    }, 
+    {
+        "city": "Gabrovo", 
+        "admin": "Gabrovo", 
+        "country": "Bulgaria", 
+        "capital": "admin", 
+        "population": ""
+    }, 
+    {
+        "city": "Targovishte", 
+        "admin": "Targovishte", 
+        "country": "Bulgaria", 
+        "capital": "admin", 
+        "population": ""
+    }
+ ]
 }
